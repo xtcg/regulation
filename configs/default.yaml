@@ -1,0 +1,21 @@
+app_name: demo
+namespace: local
+
+file_url: https://wawawriter.com/kuka/file
+
+openai:
+  api_key: app_key
+
+zhipu:
+  api_key: app_key
+
+
+mysql:
+  db_url: db_url
+
+redis:
+  url: redis_url
+
+knowledge:
+  base_dir: /knowledge
+
